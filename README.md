@@ -4,6 +4,8 @@
 What is Xscoin?
 ----------------
 
+TYPE: POW
+
 Nodes:
 
 68.65.123.15
